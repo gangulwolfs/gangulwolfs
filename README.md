@@ -17,3 +17,6 @@
 
 -------
 📝 **Learning Records with infelearn(South Korean online learing site.)**
+-------
+Buy me a coffee.
+https://buymeacoffee.com/gangulwolfs
