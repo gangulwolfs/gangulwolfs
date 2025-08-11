@@ -17,7 +17,7 @@
 
 -------
 📝 **Learning Records with infelearn(South Korean online learing site.)**
-If you want to see my specs, please click the link: https://www.inflearn.com/users/1335156/@gaulwolfs
 -------
+If you want to see my specs, please click the link: https://www.inflearn.com/users/1335156/@gaulwolfs
 Buy me a coffee.
 https://buymeacoffee.com/gangulwolfs
