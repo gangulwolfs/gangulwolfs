@@ -52,6 +52,12 @@
 * 코드잇 NodeJS 백엔드 부트캠프 6기 최종 합격 (*자격 조건 이슈로 해지.)
 </details>
 
+---
+
+## 📬 Contact & Links
+* **Email:** gaulwolf@naver.com
+* **Keywords:** #웹소설 #백엔드 #마인크래프트플러그인 #개념파개발자 #UXUI
+
 <details>
 <summary><b>🐧 OS & Database & Network</b></summary>
 
