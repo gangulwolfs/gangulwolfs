@@ -14,20 +14,19 @@
 ## 🛠️ 기술 스택 (Tech Stacks)
 
 ### 💻 Backend & Systems
-* **Languages:** Java (고급 스레드/동기화/JVM 완숙), Kotlin, C#, C++
-* **Frameworks & Runtimes:** Node.js, Vanilla JavaScript
-* **Database & OS:** MariaDB, SQL, Linux (Ubuntu/실무 환경 익숙)
+* **Languages:** Java, Kotlin, C#
+* **Frameworks & Runtimes:** Node.js, Vanilla JavaScript -> 어느정도.
+* **Database & OS:** Linux (Ubuntu/실무 환경 익숙) -> 마인크래프트 한정. 
 
 ### 🎨 UX/UI & Frontend
-* **Design:** Figma (학습 중), Game UX/UI Design (포트폴리오 준비 중)
-* **Frontend:** React.js, jQuery, HTML5/CSS3
+* **Design:** Figma (학습 중)
+* **Frontend:** React.js, jQuery, HTML5/CSS3 -> 준미중.
 
 ---
 
 ## 🚀 현재 집중하고 있는 영역 (Current Focus)
 * **Minecraft Ecosystem:** 대규모 동시성 처리를 위한 마인크래프트 서버 아키텍처 및 커스텀 플러그인 개발 학습 중
-* **Game UX/UI:** 플레이어의 몰입감을 극대화하는 게임 인터페이스 디자인 포트폴리오 빌딩
-* **Network Programming:** C# 기반의 네트워크 프로그래밍 및 애니메이션 기반 네트워크 이론 정립
+* **Network Programming:** 네트워크 관련 이론 적립 시도.
 
 ---
 
